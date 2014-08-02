@@ -18,6 +18,7 @@
 {
     [super viewDidLoad];
     NSLog(@"ろぐです");
+    NSLog(@"hoge");
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
